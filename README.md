@@ -3,6 +3,7 @@
 
 ## My name is Kacper and I'm from Poland, I am a person who wants to improve my skills thanks to many projects that I will publish here and share with others
 
+##
 
 ### Languages that I'm using:
 
