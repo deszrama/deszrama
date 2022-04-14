@@ -2,7 +2,7 @@
 
 ### Languages that I'm using:
 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
 <img src="https://img.shields.io/badge/HTML5-00000F?style=for-the-badge&logo=HTML5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-00000F?style=for-the-badge&logo=CSS3&logoColor=white" />
 
