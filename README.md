@@ -1,7 +1,6 @@
 ### Hi there, I'm deszrama 👋
-
-
-
+##
+##
 ### Languages that I'm using:
 
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
