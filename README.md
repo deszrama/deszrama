@@ -8,7 +8,7 @@
 
 ### Databases That I'm implementing in my projects:
 
-<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 
 ### Programming IDE that I'm using:
 
