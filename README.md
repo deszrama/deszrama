@@ -3,7 +3,7 @@
 
 ## My name is Kacper and I'm from Poland, I am a person who wants to improve my skills thanks to many projects that I will publish here and share with others
 
-### Languages that I'm using:
+### Languages that I'm mainly using:
 
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" />
